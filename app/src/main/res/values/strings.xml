@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Youtubeplayer</string>
+    <string name="welcome">Welcome to my youTube Player!</string>
 </resources>
